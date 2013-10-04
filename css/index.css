@@ -1,0 +1,15 @@
+body {
+    margin: 0;
+}
+
+#internet-connection-msg {
+
+    z-index:1;
+    position:absolute;
+    width:100%;
+    text-align:center;
+}
+
+#internet-message {
+    text-align:center;
+}
